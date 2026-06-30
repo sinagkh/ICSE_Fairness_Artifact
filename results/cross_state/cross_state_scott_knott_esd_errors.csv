@@ -1,0 +1,4 @@
+"source_state","target_state","metric","status","error"
+"ALL","ALL","mechanism_higher_order_pair_count","error","missing value where TRUE/FALSE needed"
+"ALL","ALL","mechanism_higher_order_scope_count","error","missing value where TRUE/FALSE needed"
+"ALL","ALL","mechanism_higher_order_boundary_scope_count","error","missing value where TRUE/FALSE needed"

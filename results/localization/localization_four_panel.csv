@@ -1,0 +1,169 @@
+panel,panel_title,experiment,dataset,state,model,model_label,model_order,feature,feature_label,feature_order,mean,std,n
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,erm,ERM,0,loan_to_value_ratio,LTV,0,0.5224816679954529,0.06781530945697899,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,fairsmote,Fair-SMOTE,1,loan_to_value_ratio,LTV,0,0.891025161743164,0.19984918054694167,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,score_only,Score-gap,2,loan_to_value_ratio,LTV,0,0.3181732907891273,0.08527335766991717,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,no_interaction,No-interaction,3,loan_to_value_ratio,LTV,0,0.28084954172372817,0.07824630165959828,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,steering,"Interaction
+steering",4,loan_to_value_ratio,LTV,0,0.00507488092407578,0.001971067009376623,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,erm,ERM,0,debt_to_income_ratio,DTI,1,0.4210058689117432,0.04806425487835829,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,fairsmote,Fair-SMOTE,1,debt_to_income_ratio,DTI,1,0.8053466379642487,0.08932508222805975,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,score_only,Score-gap,2,debt_to_income_ratio,DTI,1,0.26786087155342103,0.05856221027837976,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,no_interaction,No-interaction,3,debt_to_income_ratio,DTI,1,0.25508764684200286,0.0480674777171427,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,steering,"Interaction
+steering",4,debt_to_income_ratio,DTI,1,0.00605881842784579,0.002497487398174639,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,erm,ERM,0,loan_amount,Loan amt.,2,0.43017803132534027,0.09687436494351609,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,fairsmote,Fair-SMOTE,1,loan_amount,Loan amt.,2,0.3604082763195038,0.09276445508490173,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,score_only,Score-gap,2,loan_amount,Loan amt.,2,0.18406561836600302,0.06313037347119918,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,no_interaction,No-interaction,3,loan_amount,Loan amt.,2,0.1467377714812755,0.04281693486370651,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,steering,"Interaction
+steering",4,loan_amount,Loan amt.,2,0.00260271810693661,0.0007662253631624394,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,erm,ERM,0,property_value,Property value,3,0.35083949863910674,0.04330250410073494,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,fairsmote,Fair-SMOTE,1,property_value,Property value,3,0.39603765606880187,0.08043120701096375,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,score_only,Score-gap,2,property_value,Property value,3,0.17930661663413044,0.05658413230455523,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,no_interaction,No-interaction,3,property_value,Property value,3,0.14474931433796878,0.04532214704952256,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,steering,"Interaction
+steering",4,property_value,Property value,3,0.00256961545674126,0.0008488950566922218,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,erm,ERM,0,income,Income,4,0.3438101470470428,0.049221099255390297,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,fairsmote,Fair-SMOTE,1,income,Income,4,0.37191696316003797,0.11754982023546144,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,score_only,Score-gap,2,income,Income,4,0.17814288958907123,0.050509526770555535,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,no_interaction,No-interaction,3,income,Income,4,0.1470160417258739,0.05006023996577949,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,steering,"Interaction
+steering",4,income,Income,4,0.00236949386307965,0.0008931447719823387,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,erm,ERM,0,tract_minority_population_percent,Tract minority %,5,0.2772241607308387,0.016798213527365387,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,fairsmote,Fair-SMOTE,1,tract_minority_population_percent,Tract minority %,5,0.30430359542369845,0.08141875702300833,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,score_only,Score-gap,2,tract_minority_population_percent,Tract minority %,5,0.13346320390701288,0.027829534670126325,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,no_interaction,No-interaction,3,tract_minority_population_percent,Tract minority %,5,0.12855629846453662,0.02369393865449434,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,steering,"Interaction
+steering",4,tract_minority_population_percent,Tract minority %,5,0.00215030172839755,0.0007524415733995387,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,erm,ERM,0,tract_to_msa_income_percentage,Tract/MSA income,6,0.24808717668056487,0.029613623689856233,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,fairsmote,Fair-SMOTE,1,tract_to_msa_income_percentage,Tract/MSA income,6,0.31800691932439806,0.09786126210997169,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,score_only,Score-gap,2,tract_to_msa_income_percentage,Tract/MSA income,6,0.12904537171125408,0.03904080481650319,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,no_interaction,No-interaction,3,tract_to_msa_income_percentage,Tract/MSA income,6,0.11301993876695629,0.03245787781466255,10
+hmda_pa,HMDA-PA Race,hmda_race,hmda,PA,steering,"Interaction
+steering",4,tract_to_msa_income_percentage,Tract/MSA income,6,0.0020239180768839597,0.0006808068043744821,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,erm,ERM,0,loan_to_value_ratio,LTV,0,0.4165006220340729,0.07688038191943182,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,fairsmote,Fair-SMOTE,1,loan_to_value_ratio,LTV,0,0.7718652963638306,0.19621127579141603,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,score_only,Score-gap,2,loan_to_value_ratio,LTV,0,0.25389880612492555,0.09701675884034369,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,no_interaction,No-interaction,3,loan_to_value_ratio,LTV,0,0.25659933835268023,0.08148016717210983,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,steering,"Interaction
+steering",4,loan_to_value_ratio,LTV,0,0.00592358715366567,0.0037721074900927674,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,erm,ERM,0,debt_to_income_ratio,DTI,1,0.3485141098499298,0.07217733115920454,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,fairsmote,Fair-SMOTE,1,debt_to_income_ratio,DTI,1,0.9329365968704224,0.17810803828380015,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,score_only,Score-gap,2,debt_to_income_ratio,DTI,1,0.20352550670504566,0.056097272271081716,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,no_interaction,No-interaction,3,debt_to_income_ratio,DTI,1,0.17231829985976216,0.03953792193243503,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,steering,"Interaction
+steering",4,debt_to_income_ratio,DTI,1,0.00660347264492879,0.003671075667646879,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,erm,ERM,0,loan_amount,Loan amt.,2,0.33151320964097974,0.06689734110647419,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,fairsmote,Fair-SMOTE,1,loan_amount,Loan amt.,2,0.48850163221359255,0.22851820988068622,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,score_only,Score-gap,2,loan_amount,Loan amt.,2,0.16343170851469035,0.04584522443012767,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,no_interaction,No-interaction,3,loan_amount,Loan amt.,2,0.12290120944380756,0.0242805230600536,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,steering,"Interaction
+steering",4,loan_amount,Loan amt.,2,0.00271107590524476,0.0009484278028421891,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,erm,ERM,0,property_value,Property value,3,0.2949419036507606,0.0805676064460314,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,fairsmote,Fair-SMOTE,1,property_value,Property value,3,0.5916554600000381,0.1827451275121809,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,score_only,Score-gap,2,property_value,Property value,3,0.15125252604484557,0.03337036061256113,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,no_interaction,No-interaction,3,property_value,Property value,3,0.1279260657727718,0.02971870501780724,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,steering,"Interaction
+steering",4,property_value,Property value,3,0.00261020184261719,0.0009678376252577795,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,erm,ERM,0,income,Income,4,0.24752712845802308,0.04797272871349869,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,fairsmote,Fair-SMOTE,1,income,Income,4,0.5070129126310349,0.24206680222474425,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,score_only,Score-gap,2,income,Income,4,0.13728622272610663,0.04236529675005363,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,no_interaction,No-interaction,3,income,Income,4,0.1031788624823093,0.01768018374145324,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,steering,"Interaction
+steering",4,income,Income,4,0.00288996273884545,0.0009962250341996439,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,erm,ERM,0,tract_minority_population_percent,Tract minority %,5,0.16195940822362895,0.028269246079330013,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,fairsmote,Fair-SMOTE,1,tract_minority_population_percent,Tract minority %,5,0.40323826521635053,0.19735511295474173,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,score_only,Score-gap,2,tract_minority_population_percent,Tract minority %,5,0.07965138405561442,0.015870522394226656,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,no_interaction,No-interaction,3,tract_minority_population_percent,Tract minority %,5,0.07479091808199877,0.012481815070600196,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,steering,"Interaction
+steering",4,tract_minority_population_percent,Tract minority %,5,0.0021357027231715,0.0008969623418623829,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,erm,ERM,0,tract_to_msa_income_percentage,Tract/MSA income,6,0.1852833822369575,0.027311189722434334,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,fairsmote,Fair-SMOTE,1,tract_to_msa_income_percentage,Tract/MSA income,6,0.43440506756305697,0.2506141204836739,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,score_only,Score-gap,2,tract_to_msa_income_percentage,Tract/MSA income,6,0.08834933862090108,0.013804078270477733,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,no_interaction,No-interaction,3,tract_to_msa_income_percentage,Tract/MSA income,6,0.0819139495491981,0.014555656111922617,10
+hmda_oh,HMDA-OH Race,hmda_race,hmda,OH,steering,"Interaction
+steering",4,tract_to_msa_income_percentage,Tract/MSA income,6,0.00213234532857308,0.0009021119518183706,10
+adult_gender,Adult Gender,adult_gender,adult,-,erm,ERM,0,hours_per_week,Hours/week,0,0.6565684974193573,0.10088970765116036,10
+adult_gender,Adult Gender,adult_gender,adult,-,fairsmote,Fair-SMOTE,1,hours_per_week,Hours/week,0,1.0867467939853668,0.12020823094385738,10
+adult_gender,Adult Gender,adult_gender,adult,-,score_only,Score-gap,2,hours_per_week,Hours/week,0,0.938994961977005,0.34598527360954673,10
+adult_gender,Adult Gender,adult_gender,adult,-,no_interaction,No-interaction,3,hours_per_week,Hours/week,0,0.5745941117405892,0.23132521741006853,10
+adult_gender,Adult Gender,adult_gender,adult,-,steering,"Interaction
+steering",4,hours_per_week,Hours/week,0,0.03755133189260954,0.0032603579894621413,10
+adult_gender,Adult Gender,adult_gender,adult,-,erm,ERM,0,marital_married,Married,1,0.4510106027126312,0.10421416255751642,10
+adult_gender,Adult Gender,adult_gender,adult,-,fairsmote,Fair-SMOTE,1,marital_married,Married,1,0.5942891389131546,0.2153475471654287,10
+adult_gender,Adult Gender,adult_gender,adult,-,score_only,Score-gap,2,marital_married,Married,1,0.0933157157152891,0.03256394288858054,10
+adult_gender,Adult Gender,adult_gender,adult,-,no_interaction,No-interaction,3,marital_married,Married,1,0.08336502984166143,0.023540147805893134,10
+adult_gender,Adult Gender,adult_gender,adult,-,steering,"Interaction
+steering",4,marital_married,Married,1,0.0342553403228521,0.0037353562403969346,10
+adult_gender,Adult Gender,adult_gender,adult,-,erm,ERM,0,relationship_spouse,Spouse,2,0.44378694891929626,0.09728626691264922,10
+adult_gender,Adult Gender,adult_gender,adult,-,fairsmote,Fair-SMOTE,1,relationship_spouse,Spouse,2,0.6365901708602906,0.24578636664536915,10
+adult_gender,Adult Gender,adult_gender,adult,-,score_only,Score-gap,2,relationship_spouse,Spouse,2,0.09720451235771174,0.03822371706846384,10
+adult_gender,Adult Gender,adult_gender,adult,-,no_interaction,No-interaction,3,relationship_spouse,Spouse,2,0.08377286605536935,0.02518111181001024,10
+adult_gender,Adult Gender,adult_gender,adult,-,steering,"Interaction
+steering",4,relationship_spouse,Spouse,2,0.03191833253949875,0.0022085246327768686,10
+adult_gender,Adult Gender,adult_gender,adult,-,erm,ERM,0,age,Age,3,0.37261432856321336,0.09169237369155665,10
+adult_gender,Adult Gender,adult_gender,adult,-,fairsmote,Fair-SMOTE,1,age,Age,3,0.8156621575355529,0.1410379498489574,10
+adult_gender,Adult Gender,adult_gender,adult,-,score_only,Score-gap,2,age,Age,3,0.7194610655307769,0.33580528348751293,10
+adult_gender,Adult Gender,adult_gender,adult,-,no_interaction,No-interaction,3,age,Age,3,0.4479718074202538,0.2119415883757249,10
+adult_gender,Adult Gender,adult_gender,adult,-,steering,"Interaction
+steering",4,age,Age,3,0.04088927283883091,0.0037795890149158093,10
+adult_gender,Adult Gender,adult_gender,adult,-,erm,ERM,0,education_num,Education,4,0.16534004583954806,0.0494817522940293,10
+adult_gender,Adult Gender,adult_gender,adult,-,fairsmote,Fair-SMOTE,1,education_num,Education,4,0.44274577498435974,0.07624096512603597,10
+adult_gender,Adult Gender,adult_gender,adult,-,score_only,Score-gap,2,education_num,Education,4,0.25398099124431606,0.07889277150681147,10
+adult_gender,Adult Gender,adult_gender,adult,-,no_interaction,No-interaction,3,education_num,Education,4,0.20379734262824054,0.09073015025381988,10
+adult_gender,Adult Gender,adult_gender,adult,-,steering,"Interaction
+steering",4,education_num,Education,4,0.03502087071537967,0.0032540438426680064,10
+adult_gender,Adult Gender,adult_gender,adult,-,erm,ERM,0,relationship_own_child,Own child,5,0.10323294550180431,0.030169118374911017,10
+adult_gender,Adult Gender,adult_gender,adult,-,fairsmote,Fair-SMOTE,1,relationship_own_child,Own child,5,0.8062635898590088,0.24265574692791458,10
+adult_gender,Adult Gender,adult_gender,adult,-,score_only,Score-gap,2,relationship_own_child,Own child,5,0.16605428680777545,0.08587416790772451,10
+adult_gender,Adult Gender,adult_gender,adult,-,no_interaction,No-interaction,3,relationship_own_child,Own child,5,0.09703003093600268,0.039183313643756934,10
+adult_gender,Adult Gender,adult_gender,adult,-,steering,"Interaction
+steering",4,relationship_own_child,Own child,5,0.02462643459439273,0.0024465343531441712,10
+adult_gender,Adult Gender,adult_gender,adult,-,erm,ERM,0,occupation_exec_prof,Exec/prof occ.,6,0.09633402489125727,0.02681781051500512,10
+adult_gender,Adult Gender,adult_gender,adult,-,fairsmote,Fair-SMOTE,1,occupation_exec_prof,Exec/prof occ.,6,0.8838411211967468,0.083014889909769,10
+adult_gender,Adult Gender,adult_gender,adult,-,score_only,Score-gap,2,occupation_exec_prof,Exec/prof occ.,6,0.12652538344264025,0.06400252228221852,10
+adult_gender,Adult Gender,adult_gender,adult,-,no_interaction,No-interaction,3,occupation_exec_prof,Exec/prof occ.,6,0.10795533843338485,0.03812471936449545,10
+adult_gender,Adult Gender,adult_gender,adult,-,steering,"Interaction
+steering",4,occupation_exec_prof,Exec/prof occ.,6,0.027990572527050915,0.00310999274201973,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,erm,ERM,0,SCHL,Schooling,0,0.5719309896230698,0.06715910152038773,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,fairsmote,Fair-SMOTE,1,SCHL,Schooling,0,0.5628789573907852,0.1055053036404697,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,score_only,Score-gap,2,SCHL,Schooling,0,0.3126530259847641,0.0487652179941102,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,no_interaction,No-interaction,3,SCHL,Schooling,0,0.2697423830628395,0.054002633946040525,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,steering,"Interaction
+steering",4,SCHL,Schooling,0,0.03994950316846367,0.0037669463903818325,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,erm,ERM,0,any_disability,Any disability,1,0.552800640463829,0.10052249110072868,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,fairsmote,Fair-SMOTE,1,any_disability,Any disability,1,0.43766891658306123,0.11079164563878942,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,score_only,Score-gap,2,any_disability,Any disability,1,0.5680914163589478,0.06506852210377614,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,no_interaction,No-interaction,3,any_disability,Any disability,1,0.50255745947361,0.16548171161918312,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,steering,"Interaction
+steering",4,any_disability,Any disability,1,0.03948610872030252,0.0033184073477897347,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,erm,ERM,0,cognitive_disability,Cognitive disability,2,0.442428982257843,0.15066440424443525,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,fairsmote,Fair-SMOTE,1,cognitive_disability,Cognitive disability,2,0.41522613167762756,0.12930805539749135,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,score_only,Score-gap,2,cognitive_disability,Cognitive disability,2,0.3286925613880157,0.12139436009981619,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,no_interaction,No-interaction,3,cognitive_disability,Cognitive disability,2,0.26891239732503885,0.09924186502284967,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,steering,"Interaction
+steering",4,cognitive_disability,Cognitive disability,2,0.032976655475795216,0.004212281080116783,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,erm,ERM,0,native_us,Native-born,3,0.428472164273262,0.09189041396949742,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,fairsmote,Fair-SMOTE,1,native_us,Native-born,3,0.4475059300661087,0.11510818261423023,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,score_only,Score-gap,2,native_us,Native-born,3,0.3736326813697815,0.07868223340133905,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,no_interaction,No-interaction,3,native_us,Native-born,3,0.35701744705438615,0.11738262779528645,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,steering,"Interaction
+steering",4,native_us,Native-born,3,0.04320380203425879,0.0038040338369466284,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,erm,ERM,0,relp_child,Child in household,4,0.42259077727794647,0.09987266395775707,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,fairsmote,Fair-SMOTE,1,relp_child,Child in household,4,0.30971268713474276,0.0930089707173837,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,score_only,Score-gap,2,relp_child,Child in household,4,0.2847786098718643,0.07114847490720021,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,no_interaction,No-interaction,3,relp_child,Child in household,4,0.2651051923632622,0.10120199507583445,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,steering,"Interaction
+steering",4,relp_child,Child in household,4,0.04148368295282121,0.005662205479841609,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,erm,ERM,0,relp_householder,Householder,5,0.41855330765247345,0.10105473021227906,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,fairsmote,Fair-SMOTE,1,relp_householder,Householder,5,0.43475903421640394,0.16150594549937194,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,score_only,Score-gap,2,relp_householder,Householder,5,0.2990867048501968,0.055250602274871774,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,no_interaction,No-interaction,3,relp_householder,Householder,5,0.2666014745831489,0.06205690553721038,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,steering,"Interaction
+steering",4,relp_householder,Householder,5,0.04693181626498694,0.009137155675686725,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,erm,ERM,0,female,Sex,6,0.40236264169216157,0.06982325122380457,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,fairsmote,Fair-SMOTE,1,female,Sex,6,0.4449101507663727,0.12117946729621716,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,score_only,Score-gap,2,female,Sex,6,0.20770165324211115,0.04232496526786259,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,no_interaction,No-interaction,3,female,Sex,6,0.18117744997143742,0.0535745251524722,10
+acs_age,ACS Employment Age,acs_age,acs_employment,MD,steering,"Interaction
+steering",4,female,Sex,6,0.07393818795680995,0.004710371147906222,10
