@@ -115,8 +115,8 @@ print(f"[check] verified per-seed AOD-excess formula for {checked} model/seed ro
 PY
 
 echo
-echo "Paper mapping:"
-echo "  main paired-bias table: results/main/confirmatory_summary_all_metrics_with_fairsmote.csv"
+echo "Submission result mapping:"
+echo "  paired-bias experiments: results/main/confirmatory_summary_all_metrics_with_fairsmote.csv"
 echo "  localization figure:    generated/figures/localization_four_panel2.pdf"
 echo "  ladder table:           results/ladder/hmda_va_compact_ladder_10seed_summary.csv"
 echo "  cross-state transfer:   results/cross_state/cross_state_source_normalized_summary_by_model.csv"
