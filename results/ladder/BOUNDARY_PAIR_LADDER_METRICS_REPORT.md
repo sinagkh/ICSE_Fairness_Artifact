@@ -1,6 +1,6 @@
-# Boundary Pair Metric Add-On Report
+# Boundary Pair Metric Report
 
-Evaluation-only add-on for the compact ladder artifacts. No models were trained.
+Evaluation-only boundary-local direct interaction metrics for the compact ladder artifacts. No models were trained.
 
 Boundary convention: the same hard near-boundary evaluation mask used by `boundary_proxy_effect_gap_mean`, `abs(sigmoid(logit)-0.5) <= boundary_eval_margin` from each checkpoint's saved args.
 

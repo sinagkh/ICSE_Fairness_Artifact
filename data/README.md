@@ -6,7 +6,7 @@ Raw datasets are not redistributed in this artifact. The scripts download or loa
 
 Use the FFIEC/CFPB 2019 Modified Loan/Application Register files for Maryland, Virginia, Pennsylvania, and Ohio. The experiment restricts to White/Black applicants and predicts loan approval/origination (`action_taken` in `{1,2}`).
 
-Expected raw data location for full reruns is configurable through `scripts/run_fairness_interactions.py`; see its `--hmda-root` argument.
+Expected raw data location for full reruns is configurable through `scripts/run_fairness_interactions.py`; see its `--hmda-path` argument.
 
 ## UCI Adult
 
@@ -25,5 +25,4 @@ Install `folktables` from `requirements.txt` and configure the ACS cache/root wi
 
 ## Splits and Seeds
 
-All reported runs use seeds `0` through `9`, validation fraction `0.15`, test fraction `0.20`, maximum `100` epochs, and patience `12`, as described in `configs/CONFIRMATORY_RERUN_INSTRUCTIONS.md`.
-
+All reported runs use seeds `0` through `9`, validation fraction `0.15`, test fraction `0.20`, maximum `100` epochs, and patience `12`.

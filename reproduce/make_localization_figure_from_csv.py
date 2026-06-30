@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Regenerate a dependency-free SVG version of the localization heatmap.
 
-The paper-facing PDF is included in generated/figures/localization_four_panel2.pdf.
+The submission PDF is included in generated/figures/localization_four_panel2.pdf.
 This script uses only Python's standard library so availability reviewers can
 confirm the plotted values without installing plotting packages.
 """
@@ -125,4 +125,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

@@ -6,7 +6,7 @@ This audit checks row availability before building the compact ladder reports.
 - Score-guard global-interaction row source: `runs/score_guard_global_interaction_ladder_v1`
 - Added score-guard global-interaction metric rows: `51890`.
 
-- Boundary direct-interaction add-on source: `results/ladder/boundary_pair_ladder_metrics.csv`
+- Boundary direct-interaction metric source: `results/ladder/boundary_pair_ladder_metrics.csv`
 - Added boundary direct-interaction metric rows: `11880`.
 
 | Dataset | Role | Model | Seeds present | Status |

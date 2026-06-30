@@ -103,5 +103,5 @@ Metrics are mean +/- std over 10 seeds. Lower is better except AUC/Acc.
 - `hmda_pa_compact_ladder_10seed.csv`: per-seed compact ladder rows for HMDA-PA Race.
 - `hmda_pa_compact_ladder_10seed_summary.csv`: mean/std summary.
 - `compact_ladder_long_metrics.csv`: long metrics table for ScottKnottESD.
-- `boundary_pair_ladder_metrics.csv`: evaluation-only boundary-local direct interaction add-on.
+- `boundary_pair_ladder_metrics.csv`: evaluation-only boundary-local direct interaction metrics.
 - `scott_knott_esd_groups.csv`: standard ScottKnottESD groups where generated.

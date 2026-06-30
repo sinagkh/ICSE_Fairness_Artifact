@@ -20,7 +20,6 @@ The first command checks that required result files are present. The second comm
 - `results/scott_knott/`: ScottKnottESD groupings, exclusions, and validation reports.
 - `scripts/`: experiment runners, aggregation scripts, ScottKnottESD scripts, and figure-generation scripts.
 - `reproduce/`: convenience scripts for artifact checks and full/partial reruns.
-- `configs/`: protocol notes describing model rows, model-selection rules, and sweep settings.
 - `data/README.md`: instructions for obtaining public datasets.
 
 Large row-level metric CSVs are stored as `.csv.gz`. They can be read directly by pandas or expanded with `gzip -dk`.

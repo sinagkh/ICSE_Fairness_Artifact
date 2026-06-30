@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Phase 3 confirmatory sweep launcher.
+# Ten-seed confirmatory sweep launcher.
 #
 # Default behavior is a dry run. Use DRY_RUN=0 to execute.
 # Example:

@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Fair-SMOTE add-on launcher for the ICSE fairness-debugging paper.
-# It writes only new Fair-SMOTE rows and does not modify the frozen Phase 3
-# result tree. Use SEEDS="0" for the Phase 1 sanity pass, then SEEDS="0 ... 9".
+# Fair-SMOTE baseline launcher for the submission artifact.
+# It writes Fair-SMOTE result rows under runs/. Use SEEDS="0" for a quick
+# sanity check, then SEEDS="0 ... 9" for the ten-seed run.
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 ROOT="$(cd "${SCRIPT_DIR}/.." && pwd)"

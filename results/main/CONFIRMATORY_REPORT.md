@@ -141,9 +141,9 @@
 
 - `confirmatory_long_metrics.csv`: one row per metric/model/seed/split.
 - `confirmatory_summary_all_metrics.csv`: mean/std for every test metric.
-- `confirmatory_primary_summary.csv`: paper-facing behavior and mechanism metrics.
+- `confirmatory_primary_summary.csv`: behavior and mechanism metrics used in the submission.
 - `utility_floor_audit.csv`: validation AUC floor check.
-- `scott_knott_esd_groups.csv`: paper-facing statistical grouping over primary metrics using the standard CRAN `ScottKnottESD` implementation.
+- `scott_knott_esd_groups.csv`: statistical grouping over primary metrics using the standard CRAN `ScottKnottESD` implementation.
 - `SCOTT_KNOTT_ESD_VALIDATION_REPORT.md`: R/package version and validation notes.
 - `scott_knott_esd_exclusions.csv`: rows intentionally excluded from official grouping.
 - `scott_knott_groups.csv`: lightweight in-repo diagnostic grouping.

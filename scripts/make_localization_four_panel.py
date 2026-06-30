@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Create the paper-facing four-panel interaction-localization figure.
+"""Create the submission four-panel interaction-localization figure.
 
-The figure merges frozen Phase-4 long metrics with the add-on Fair-SMOTE
-results, then plots held-out per-feature direct interaction residuals.
+The figure merges paired-bias metrics with Fair-SMOTE results, then plots
+held-out per-feature direct interaction residuals.
 """
 
 from __future__ import annotations
@@ -138,7 +138,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--phase4-long",
         default="results/main/confirmatory_long_metrics.csv.gz",
-        help="Frozen Phase-4 long metric CSV.",
+        help="Long metric CSV for paired-bias experiments.",
     )
     parser.add_argument(
         "--fairsmote-root",

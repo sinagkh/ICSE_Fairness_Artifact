@@ -1,6 +1,6 @@
 #!/usr/bin/env Rscript
 
-# Validate Phase-4 model groupings with the standard CRAN ScottKnottESD package.
+# Validate model groupings with the standard CRAN ScottKnottESD package.
 # The input is the confirmatory long-metrics CSV produced by
 # phase4_confirmatory_aggregate.py. For lower-is-better metrics, values are
 # negated before calling sk_esd(), so group 1 always denotes the best group.
